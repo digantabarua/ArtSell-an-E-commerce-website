@@ -1,0 +1,2 @@
+# ArtSell-an-E-commerce-website-
+This project is a representation of a platform to sell art, which is basically a E-commerce Website. The project contains some functionalities including crud operations like a normal E-commerce website can do. For example, here Such as buyer can buy art, Artist can sell art, including delivery guy who can deliver the arts to the buyers within given time and an Admin to run the website operation. 
